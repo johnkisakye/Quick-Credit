@@ -24,7 +24,7 @@ Kisakye John
 Email: joohn.kisakye@gmail.com
 
 ## Licence
-This project is licensed under the MIT License - see the LICENSE.md file above for details
+This project is licensed under the MIT License - see the LICENSE.md file above for details.
 
 ## Acknowledgments
 speacial thanks go to our all people whose tutorials have guided me in this project
