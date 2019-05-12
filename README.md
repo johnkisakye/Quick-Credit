@@ -19,7 +19,7 @@ XHTML as the scripting language to dispplay web pages in the browser
 [Youtube](https://www.youtube.com/watch?v=yXY3f9jw7fg)
 [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md)
 
-##Authors
+## Authors
 Kisakye John
 Email: joohn.kisakye@gmail.com
 
