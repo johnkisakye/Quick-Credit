@@ -1,0 +1,56 @@
+  <head>
+        <meta charset="utf-8">
+        <title>Loan Application</title>
+        <link rel="stylesheet" href="css/style.css">
+        <script src="javascript/script.js"></script> 
+    </head>
+    <body>
+
+      <ul>
+        <li><a href="login-user.html">Login</a></li>
+        <li><a href="signup.html">Sign Up</a></li>
+        <li><a class="active" href="#apply.html">Apply Loan</a></li>
+        <li><a href="loanhistory.html">Loan History</a></li>
+        <li id = "floatRight"><a href="#signout">Sign Out</a></li>
+      </ul>
+
+      <form action="" method="post">
+      
+        <h1>Quick Credit</h1>
+        <h2>Apply for a loan</h1>
+        
+        <fieldset>
+          <legend>Application form</legend>
+          <label for="firstName">First Name:</label>
+          <input required type="text" id="name" name="firstName">
+
+          <label for="firstName">Last Name:</label>
+          <input required type="text" id="name" name="lastName">
+
+          <label for="email">Email:</label>
+          <input required type="email" id="mail" name="eamil">
+
+         
+          
+          <label for="tenor">Tenor:</label>
+          <select>
+              <option disabled selected value> -- Select payment period -- </option>
+              <option value = "3">3 months</option>
+              <option value = "6">6 months</option>
+              <option value = "12">12 months</option>
+          </select>
+
+          <label for="amount">Amount:</label>
+          <input type="text" class="textfield" value="" id="amount" name="amount" onkeypress="return isNumber(event)" />
+        </fieldset>
+        
+        
+        
+         
+        
+        
+        <button type="submit">Submit Request</button>
+      </form>
+      
+    </body>
+</html>
