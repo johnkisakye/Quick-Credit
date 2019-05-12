@@ -21,7 +21,7 @@ XHTML as the scripting language to dispplay web pages in the browser
 
 ## Authors
 Kisakye John
-Email: joohn.kisakye@gmail.com
+Email: john.kisakye@gmail.com
 
 ## Licence
 This project is licensed under the MIT License - see the LICENSE.md file above for details.
